@@ -1,0 +1,39 @@
+{
+  "sites": [
+    {
+      "id": "PS1",
+      "name": "PS 1",
+      "hasFlowrate": true
+    },
+    {
+      "id": "PS2",
+      "name": "PS 2",
+      "hasFlowrate": false
+    },
+    {
+      "id": "PS3",
+      "name": "PS 3",
+      "hasFlowrate": false
+    },
+    {
+      "id": "PS4",
+      "name": "PS 4",
+      "hasFlowrate": false
+    },
+    {
+      "id": "PS5",
+      "name": "PS 5",
+      "hasFlowrate": false
+    },
+    {
+      "id": "PS6",
+      "name": "PS 6",
+      "hasFlowrate": false
+    },
+    {
+      "id": "PS7",
+      "name": "PS 7",
+      "hasFlowrate": false
+    }
+  ]
+}
